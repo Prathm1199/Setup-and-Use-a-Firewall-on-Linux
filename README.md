@@ -32,7 +32,6 @@ sudo ufw delete <rule_number>
 UFW was enabled and configured to block Telnet while allowing SSH. Rule removal restored the original firewall state.
 
 Screenshots:
-<img width="628" height="305" alt="ufw_enable" src="https://github.com/user-attachments/assets/08a3c3ee-8dc4-46bb-9f39-73582397f1be" />
 <img width="628" height="305" alt="ufw_enable" src="https://github.com/user-attachments/assets/b33df76e-c28e-4b35-bdbb-17af57a43c63" />
 <img width="646" height="382" alt="delete_rule" src="https://github.com/user-attachments/assets/e889e8f1-9931-4f7f-adfd-a33d060263cb" />
 
